@@ -3,3 +3,5 @@ data/*
 *.tsv
 *.dmnd
 *.fasta
+*.pth
+*.pkl

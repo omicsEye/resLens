@@ -32,9 +32,7 @@ with open("../data/scripts/db/FilteredDatabase.json") as data:
     pprint(d)
 # %%
 len(d)
-# %%
-import pickle
-# %%
-meta_data = pickle.load("../data/model/v1/metadata_SS.pkl")
 
+# %%
+df[df.db == 'UNIPROT']
 # %%
