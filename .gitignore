@@ -5,3 +5,4 @@ references/*
 models
 .DS_Store
 .vscode
+try.*
