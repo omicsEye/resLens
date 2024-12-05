@@ -6,3 +6,9 @@ models
 .DS_Store
 .vscode
 try.*
+*.csv
+*.tsv
+*.dmnd
+*.fasta
+*.pth
+*.pkl
