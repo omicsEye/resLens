@@ -8,7 +8,7 @@ This repo contains our work reproducing the work of [DeepARG](https://microbiome
 
 The DeepARG directory contains the Jupyter notebooks in which we recreated their work (called 'reproduce_model_type.ipynb' for each type of model) for both short read and long read models and expanded upon it by training models that could use DNA rather than amino acid sequences as inputs. Additionally, it contains notebooks that processed their data and retrieved DNA sequences for their original amino acid sequences and to perform ablation testing through training linear models on their features.
 
-The LLM directory contains notebooks for training the large language model, as well as for testing we performed on it's output and performance.
+The scripts directory contains notebooks for training the large language model, as well as for testing we performed on it's output and performance.
 
 Overall, we failed to precisely reproduce their results, we believe due to discrepancies between the dataset they described and the one they made publically available, as well as some unclear points in their description of their modelling. The models we reproduced showed the following results:
 
