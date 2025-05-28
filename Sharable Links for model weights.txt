@@ -1,4 +1,0 @@
-Fine-tuned on Short read DNA Sequence - https://huggingface.co/vedantM/NucArg_ShortRead
-Fine-tuned on Long read DNA Sequence - https://huggingface.co/vedantM/NucArg_LongRead
-Data - https://drive.google.com/drive/folders/1IAE8hIC1oKAsVa73qvjkSVqDndOPSgFO?usp=sharing
-Demo App - https://huggingface.co/spaces/vedantM/NucArg
