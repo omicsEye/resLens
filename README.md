@@ -1,4 +1,4 @@
-# resLens: A genomic language model to enhance antibiotic resistance gene detection
+# resLens: a family genomic language models to enhance antibiotic resistance gene detection
 
 This repo contains the training and inference code for resLens, a family of genomic language models that detect and classify genes that confer antibiotic resistance (ARGs). It leverages language models' contextual understanding of gene function to identify ARGs in a way that is less database dependent than current alignment methods and capable of identifying potential novel ARGs for further investigation.
 
